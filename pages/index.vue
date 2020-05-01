@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        progate
+        krogate
       </h1>
       <h2 class="subtitle">
         My prime Nuxt.js project

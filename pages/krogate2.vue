@@ -2,7 +2,7 @@
 <body>
   <header>
     <div class="container">
-      <div class="header-left">Progate</div>
+      <div class="header-left">Krogate</div>
       <div class="header-right">
         <a class="login" @click="isActive=!isActive">ログイン</a>
         <template class="dropdown" v-if="isActive">
@@ -51,7 +51,7 @@
         <br />LEARN TO BE CREATIVE.
       </h1>
       <p class="sub-intro">
-        Progateはオンラインプログラミング学習サービスです。
+        Krogateはオンラインプログラミング学習サービスです。
         <br />初心者にもやさしいスライドとレッスンで、ウェブサービスを作りながら学んでいきましょう。
       </p>
       <a href="#" class="btn signup">新規登録はこちら</a>
@@ -113,7 +113,7 @@
   <div class="message-wrapper">
     <div class="container">
       <div class="heading">
-        <h2>さぁ、あなたもProgateでプログラミングを学んでみませんか?</h2>
+        <h2>さぁ、あなたもKrogateでプログラミングを学んでみませんか?</h2>
         <h3>Let's learn to code, learn to be creative!</h3>
       </div>
       <span class="btn message">さっそく開発する</span>
@@ -122,7 +122,7 @@
 
   <footer>
     <div class="container">
-      <div class="footer-left">Progate</div>
+      <div class="footer-left">Krogate</div>
       <p>Learn to Code, Learn to be Creative.</p>
     </div>
   </footer>

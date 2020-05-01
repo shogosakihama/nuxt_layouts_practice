@@ -1,7 +1,7 @@
 <template>
 <body>
   <div class="header">
-    <div class="header-logo">Progate</div>
+    <div class="header-logo">Krogate</div>
     <div class="header-list">
       <ul>
         <li>プログラミングとは</li>
@@ -98,7 +98,7 @@
   </div>
 
   <div class="footer">
-    <div class="footer-logo">Progate</div>
+    <div class="footer-logo">Krogate</div>
     <div class="footer-list"  v-if="!isActive">
       <ul>
         <li>会社概要</li>
